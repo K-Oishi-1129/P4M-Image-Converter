@@ -1,7 +1,5 @@
-# P4M-Image-Converter
-Convert P4 Multispectral images to Radiance/Reflectance with a simple web app.
-
 # 📷 P4M IMAGE CONVERTER
+Convert P4 Multispectral images to Radiance/Reflectance with a simple web app.
 
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-brightgreen)](https://streamlit.io/)
@@ -13,16 +11,6 @@ Convert P4 Multispectral images to Radiance/Reflectance with a simple web app.
 
 **P4M IMAGE CONVERTER** は、マルチスペクトルTIF画像をもとに「放射輝度 / 反射率」画像を生成するための Streamlit GUI アプリです。  
 黒レベル補正・ビネット補正・照度補正・歪み補正などを自動適用し、簡単な操作で高精度な画像処理が行えます。
-
----
-
-## 📸 デモ画面
-
-<img src="https://user-images.githubusercontent.com/your-user/demo-screenshot.png" width="800"/>
-
-> ※画像はイメージ。必要に応じてスクリーンショットをご自身で用意してください。
-
----
 
 ## ⚙️ 動作環境
 
